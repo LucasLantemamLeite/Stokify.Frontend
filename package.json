@@ -1,5 +1,5 @@
 {
-  "name": "Stokify-Frontend",
+  "name": "stokify.frontend",
   "type": "module",
   "private": true,
   "scripts": {
